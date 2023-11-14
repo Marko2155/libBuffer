@@ -15,5 +15,3 @@ def modifyBuffer(buffer, value):
         buff2 = value
     else:
         print("Buffer does not exist.")
-
-
