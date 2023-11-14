@@ -10,7 +10,7 @@ setup(
     long_description=long_description,
     keywords="buffer",
     version='1.0.3',
-    packages=['libBuffer'],
+    packages=['buffer'],
     install_requires=[],
     url='https://github.com/Marko2155/libBuffer',
     license='MIT',
